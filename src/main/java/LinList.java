@@ -5,6 +5,7 @@ import java.util.ListIterator;
 
 /**
  * Created by ScorpionOrange on 2016/11/27.
+ * update in 2016.11.29 again
  */
 public class LinList implements List {
     private Node head;   // 头指针
